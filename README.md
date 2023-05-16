@@ -15,7 +15,7 @@
 <hr/>
 <h4><b>Current stats</b></h4>
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlnetto&show_icons=true&locale=en&layout=compact" alt="jlnetto" /></p>
+  <p><img align="center" src="https://github-readme-stats-sigma.vercel.app/api/top-langs?username=jlnetto&show_icons=true&locale=en&layout=compact" alt="jlnetto" /></p>
 </div>
 <hr/>
 <h4><b> Connect with me</b></h4>
