@@ -2,7 +2,7 @@
 <h4><b>About me</b></h4>
 <p align="left">I love technology! Being able to help people with innovative solutions is priceless! I always seek to update myself together with the community and the market. I'm more used to working with new technologies! But I am ready to learn any tools and technologies. I am a communicative person, I like to discuss ideas and new solutions with my team, always open to changes. In my free time, I love to play games! Actually, I'm working with React, Typescript and NodeJs. See you soon!</p>
 
-- 🔭 I’m currently working on **Groundbreaker**
+- 🔭 I’m currently working on **iGreen Energy**
 
 - 🌱 I’m currently learning **Next.js, Node.js & AWS**
 
