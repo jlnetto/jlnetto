@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **iGreen Energy**
 
-- 🌱 I’m currently learning **Next.js, Node.js & AWS**
+- 🌱 I’m currently learning **Nest.js, Next.js, Node.js, Generative AI & Azure**
 
 - 💬 Ask me about **Front End development**
 
