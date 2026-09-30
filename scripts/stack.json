@@ -1,0 +1,121 @@
+{
+  "$comment": "level 1-4 = how often the tool shows up in my recent projects (80 repos, counted in Sep 2026). Run `node scripts/build.mjs` after editing.",
+  "now": [
+    {
+      "category": "Languages",
+      "items": [
+        { "name": "TypeScript", "icon": "simple-icons:typescript", "level": 4 },
+        { "name": "JavaScript", "icon": "simple-icons:javascript", "level": 3 },
+        { "name": "Python", "icon": "simple-icons:python", "level": 2 },
+        { "name": "C#", "icon": "devicon:csharp/csharp-plain", "level": 2 },
+        { "name": "HTML", "icon": "simple-icons:html5", "level": 3 },
+        { "name": "CSS", "icon": "simple-icons:css", "level": 3 },
+        { "name": "Sass", "icon": "simple-icons:sass", "level": 3 }
+      ]
+    },
+    {
+      "category": "Front end",
+      "items": [
+        { "name": "React", "icon": "simple-icons:react", "level": 4 },
+        { "name": "Vite", "icon": "simple-icons:vite", "level": 4 },
+        { "name": "Tailwind CSS", "icon": "simple-icons:tailwindcss", "level": 4 },
+        { "name": "React Hook Form", "icon": "simple-icons:reacthookform", "level": 4 },
+        { "name": "Zod", "icon": "simple-icons:zod", "level": 4 },
+        { "name": "TanStack Query", "icon": "simple-icons:reactquery", "level": 3 },
+        { "name": "styled-components", "icon": "simple-icons:styledcomponents", "level": 3 },
+        { "name": "MUI", "icon": "simple-icons:mui", "level": 3 },
+        { "name": "Framer Motion", "icon": "simple-icons:framer", "level": 3 },
+        { "name": "shadcn/ui", "icon": "simple-icons:shadcnui", "level": 3 },
+        { "name": "Next.js", "icon": "simple-icons:nextdotjs", "level": 2 }
+      ]
+    },
+    {
+      "category": "Mobile and desktop",
+      "items": [
+        { "name": "React Native", "icon": "simple-icons:react", "level": 2 },
+        { "name": "Expo", "icon": "simple-icons:expo", "level": 1 },
+        { "name": "Electron", "icon": "simple-icons:electron", "level": 1 }
+      ]
+    },
+    {
+      "category": "Back end",
+      "items": [
+        { "name": "Node.js", "icon": "simple-icons:nodedotjs", "level": 4 },
+        { "name": "NestJS", "icon": "simple-icons:nestjs", "level": 3 },
+        { "name": "Express", "icon": "simple-icons:express", "level": 3 },
+        { "name": "Swagger", "icon": "simple-icons:swagger", "level": 3 },
+        { "name": ".NET", "icon": "simple-icons:dotnet", "level": 2 },
+        { "name": "FastAPI", "icon": "simple-icons:fastapi", "level": 1 },
+        { "name": "Django", "icon": "simple-icons:django", "level": 1 },
+        { "name": "Flask", "icon": "simple-icons:flask", "level": 1 },
+        { "name": "Celery", "icon": "simple-icons:celery", "level": 1 },
+        { "name": "Koa", "icon": "simple-icons:koa", "level": 1 }
+      ]
+    },
+    {
+      "category": "Data",
+      "items": [
+        { "name": "PostgreSQL", "icon": "simple-icons:postgresql", "level": 3 },
+        { "name": "Sequelize", "icon": "simple-icons:sequelize", "level": 3 },
+        { "name": "Firebase", "icon": "simple-icons:firebase", "level": 3 },
+        { "name": "Prisma", "icon": "simple-icons:prisma", "level": 2 },
+        { "name": "Redis", "icon": "simple-icons:redis", "level": 2 },
+        { "name": "SQL Server", "icon": "devicon:microsoftsqlserver/microsoftsqlserver-plain", "level": 2 },
+        { "name": "Drizzle", "icon": "simple-icons:drizzle", "level": 2 },
+        { "name": "MySQL", "icon": "simple-icons:mysql", "level": 1 }
+      ]
+    },
+    {
+      "category": "Cloud and DevOps",
+      "items": [
+        { "name": "GitHub Actions", "icon": "simple-icons:githubactions", "level": 4 },
+        { "name": "Docker", "icon": "simple-icons:docker", "level": 4 },
+        { "name": "Nginx", "icon": "simple-icons:nginx", "level": 3 },
+        { "name": "Linux", "icon": "simple-icons:linux", "level": 3 },
+        { "name": "AWS", "icon": "devicon:amazonwebservices/amazonwebservices-plain-wordmark", "level": 3 },
+        { "name": "Google Cloud", "icon": "simple-icons:googlecloud", "level": 2 },
+        { "name": "Azure", "icon": "devicon:azure/azure-plain", "level": 2 },
+        { "name": "Terraform", "icon": "simple-icons:terraform", "level": 1 }
+      ]
+    },
+    {
+      "category": "AI",
+      "items": [
+        { "name": "Claude", "icon": "simple-icons:claude", "level": 3 },
+        { "name": "OpenAI", "icon": "lobehub:openai", "level": 1 },
+        { "name": "Gemini", "icon": "simple-icons:googlegemini", "level": 1 },
+        { "name": "MCP", "icon": "simple-icons:modelcontextprotocol", "level": 1 },
+        { "name": "OpenCV", "icon": "simple-icons:opencv", "level": 1 },
+        { "name": "YOLO", "icon": "simple-icons:ultralytics", "level": 1 }
+      ]
+    },
+    {
+      "category": "Testing and tools",
+      "items": [
+        { "name": "Git", "icon": "simple-icons:git", "level": 4 },
+        { "name": "Jest", "icon": "simple-icons:jest", "level": 3 },
+        { "name": "Vitest", "icon": "simple-icons:vitest", "level": 3 },
+        { "name": "Playwright", "icon": "devicon:playwright/playwright-plain", "level": 1 }
+      ]
+    }
+  ],
+  "before": [
+    { "name": "Angular", "icon": "simple-icons:angular" },
+    { "name": "AngularJS", "icon": "devicon:angularjs/angularjs-plain" },
+    { "name": "Gatsby", "icon": "simple-icons:gatsby" },
+    { "name": "Redux", "icon": "simple-icons:redux" },
+    { "name": "Redux-Saga", "icon": "simple-icons:reduxsaga" },
+    { "name": "GraphQL", "icon": "simple-icons:graphql" },
+    { "name": "MongoDB", "icon": "simple-icons:mongodb" },
+    { "name": "Elasticsearch", "icon": "simple-icons:elasticsearch" },
+    { "name": "Java", "icon": "simple-icons:openjdk" },
+    { "name": "Bootstrap", "icon": "simple-icons:bootstrap" },
+    { "name": "Materialize", "icon": "devicon:materializecss/materializecss-plain" },
+    { "name": "Webpack", "icon": "simple-icons:webpack" },
+    { "name": "Babel", "icon": "simple-icons:babel" },
+    { "name": "Gulp", "icon": "simple-icons:gulp" },
+    { "name": "Storybook", "icon": "simple-icons:storybook" },
+    { "name": "Figma", "icon": "simple-icons:figma" },
+    { "name": "Postman", "icon": "simple-icons:postman" }
+  ]
+}

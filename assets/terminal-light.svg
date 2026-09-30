@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="55.1" viewBox="0 0 720 55.1" role="img" aria-labelledby="title">
+<title id="title">$ whoami: José Netto, software engineer in Uberlândia, Brazil. $ stack --today: TypeScript, React, NestJS, .NET, Python, GCP and Azure. $ ai --status: Building LLM and computer vision pipelines. $ cat ~/after-hours.txt: Probably playing games</title>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; white-space: pre; }
+.prompt, .cursor { fill: #116329; }
+.cmd, .out { fill: #1f2328; }
+.hidden, .caret { opacity: 0; }
+.blink { animation: blink 1s step-end infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+.e0 { animation: e0 24s step-end infinite; }
+@keyframes e0 { 0% { opacity: 0; } 0% { opacity: 1; } 23.96% { opacity: 0; } }
+.c0 { animation: c0 24s step-end infinite both; }
+@keyframes c0 { 0% { opacity: 0; } 2.5% { opacity: 1; } 23.96% { opacity: 0; } }
+.o0 { animation: o0 24s step-end infinite; }
+@keyframes o0 { 0% { opacity: 0; } 6.25% { opacity: 1; } 23.96% { opacity: 0; } }
+.k0 { animation: k0 24s step-end infinite; }
+@keyframes k0 { 0% { opacity: 0; } 0% { opacity: 1; } 6.25% { opacity: 0; } }
+.m0 { animation: m0 24s infinite; }
+@keyframes m0 {
+  0%, 2.5% { transform: translateX(0); animation-timing-function: steps(6, jump-start); }
+  4.37%, 100% { transform: translateX(46.8px); }
+}
+.e1 { animation: e1 24s step-end infinite; }
+@keyframes e1 { 0% { opacity: 0; } 25% { opacity: 1; } 48.96% { opacity: 0; } }
+.c1 { animation: c1 24s step-end infinite both; }
+@keyframes c1 { 0% { opacity: 0; } 27.5% { opacity: 1; } 48.96% { opacity: 0; } }
+.o1 { animation: o1 24s step-end infinite; }
+@keyframes o1 { 0% { opacity: 0; } 33.44% { opacity: 1; } 48.96% { opacity: 0; } }
+.k1 { animation: k1 24s step-end infinite; }
+@keyframes k1 { 0% { opacity: 0; } 25% { opacity: 1; } 33.44% { opacity: 0; } }
+.m1 { animation: m1 24s infinite; }
+@keyframes m1 {
+  0%, 27.5% { transform: translateX(0); animation-timing-function: steps(13, jump-start); }
+  31.56%, 100% { transform: translateX(101.4px); }
+}
+.e2 { animation: e2 24s step-end infinite; }
+@keyframes e2 { 0% { opacity: 0; } 50% { opacity: 1; } 73.96% { opacity: 0; } }
+.c2 { animation: c2 24s step-end infinite both; }
+@keyframes c2 { 0% { opacity: 0; } 52.5% { opacity: 1; } 73.96% { opacity: 0; } }
+.o2 { animation: o2 24s step-end infinite; }
+@keyframes o2 { 0% { opacity: 0; } 57.81% { opacity: 1; } 73.96% { opacity: 0; } }
+.k2 { animation: k2 24s step-end infinite; }
+@keyframes k2 { 0% { opacity: 0; } 50% { opacity: 1; } 57.81% { opacity: 0; } }
+.m2 { animation: m2 24s infinite; }
+@keyframes m2 {
+  0%, 52.5% { transform: translateX(0); animation-timing-function: steps(11, jump-start); }
+  55.94%, 100% { transform: translateX(85.8px); }
+}
+.e3 { animation: e3 24s step-end infinite; }
+@keyframes e3 { 0% { opacity: 0; } 75% { opacity: 1; } 98.96% { opacity: 0; } }
+.c3 { animation: c3 24s step-end infinite both; }
+@keyframes c3 { 0% { opacity: 0; } 77.5% { opacity: 1; } 98.96% { opacity: 0; } }
+.o3 { animation: o3 24s step-end infinite; }
+@keyframes o3 { 0% { opacity: 0; } 85.94% { opacity: 1; } 98.96% { opacity: 0; } }
+.k3 { animation: k3 24s step-end infinite; }
+@keyframes k3 { 0% { opacity: 0; } 75% { opacity: 1; } 85.94% { opacity: 0; } }
+.m3 { animation: m3 24s infinite; }
+@keyframes m3 {
+  0%, 77.5% { transform: translateX(0); animation-timing-function: steps(21, jump-start); }
+  84.06%, 100% { transform: translateX(163.8px); }
+}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g transform="translate(0 0)">
+<text class="prompt" x="0" y="25">~ $</text>
+<g class="e0"><text class="cmd c0" x="31.2" y="25" style="animation-delay:0s">w</text><text class="cmd c0" x="39" y="25" style="animation-delay:0.07s">h</text><text class="cmd c0" x="46.8" y="25" style="animation-delay:0.15s">o</text><text class="cmd c0" x="54.6" y="25" style="animation-delay:0.22s">a</text><text class="cmd c0" x="62.4" y="25" style="animation-delay:0.3s">m</text><text class="cmd c0" x="70.2" y="25" style="animation-delay:0.38s">i</text>
+<text class="out o0" x="0" y="47.1" textLength="397.8" lengthAdjust="spacingAndGlyphs">José Netto, software engineer in Uberlândia, Brazil</text>
+<g class="caret k0"><g class="m0"><rect class="cursor blink" x="31.2" y="14.34" width="7.02" height="13.65"/></g></g></g>
+<g class="e1 hidden"><text class="cmd c1" x="31.2" y="25" style="animation-delay:0s">s</text><text class="cmd c1" x="39" y="25" style="animation-delay:0.07s">t</text><text class="cmd c1" x="46.8" y="25" style="animation-delay:0.15s">a</text><text class="cmd c1" x="54.6" y="25" style="animation-delay:0.22s">c</text><text class="cmd c1" x="62.4" y="25" style="animation-delay:0.3s">k</text><text class="cmd c1" x="70.2" y="25" style="animation-delay:0.38s"> </text><text class="cmd c1" x="78" y="25" style="animation-delay:0.45s">-</text><text class="cmd c1" x="85.8" y="25" style="animation-delay:0.53s">-</text><text class="cmd c1" x="93.6" y="25" style="animation-delay:0.6s">t</text><text class="cmd c1" x="101.4" y="25" style="animation-delay:0.67s">o</text><text class="cmd c1" x="109.2" y="25" style="animation-delay:0.75s">d</text><text class="cmd c1" x="117" y="25" style="animation-delay:0.82s">a</text><text class="cmd c1" x="124.8" y="25" style="animation-delay:0.9s">y</text>
+<text class="out o1" x="0" y="47.1" textLength="421.2" lengthAdjust="spacingAndGlyphs">TypeScript, React, NestJS, .NET, Python, GCP and Azure</text>
+<g class="caret k1"><g class="m1"><rect class="cursor blink" x="31.2" y="14.34" width="7.02" height="13.65"/></g></g></g>
+<g class="e2 hidden"><text class="cmd c2" x="31.2" y="25" style="animation-delay:0s">a</text><text class="cmd c2" x="39" y="25" style="animation-delay:0.07s">i</text><text class="cmd c2" x="46.8" y="25" style="animation-delay:0.15s"> </text><text class="cmd c2" x="54.6" y="25" style="animation-delay:0.22s">-</text><text class="cmd c2" x="62.4" y="25" style="animation-delay:0.3s">-</text><text class="cmd c2" x="70.2" y="25" style="animation-delay:0.38s">s</text><text class="cmd c2" x="78" y="25" style="animation-delay:0.45s">t</text><text class="cmd c2" x="85.8" y="25" style="animation-delay:0.53s">a</text><text class="cmd c2" x="93.6" y="25" style="animation-delay:0.6s">t</text><text class="cmd c2" x="101.4" y="25" style="animation-delay:0.67s">u</text><text class="cmd c2" x="109.2" y="25" style="animation-delay:0.75s">s</text>
+<text class="out o2" x="0" y="47.1" textLength="327.6" lengthAdjust="spacingAndGlyphs">Building LLM and computer vision pipelines</text>
+<g class="caret k2"><g class="m2"><rect class="cursor blink" x="31.2" y="14.34" width="7.02" height="13.65"/></g></g></g>
+<g class="e3 hidden"><text class="cmd c3" x="31.2" y="25" style="animation-delay:0s">c</text><text class="cmd c3" x="39" y="25" style="animation-delay:0.07s">a</text><text class="cmd c3" x="46.8" y="25" style="animation-delay:0.15s">t</text><text class="cmd c3" x="54.6" y="25" style="animation-delay:0.22s"> </text><text class="cmd c3" x="62.4" y="25" style="animation-delay:0.3s">~</text><text class="cmd c3" x="70.2" y="25" style="animation-delay:0.38s">/</text><text class="cmd c3" x="78" y="25" style="animation-delay:0.45s">a</text><text class="cmd c3" x="85.8" y="25" style="animation-delay:0.53s">f</text><text class="cmd c3" x="93.6" y="25" style="animation-delay:0.6s">t</text><text class="cmd c3" x="101.4" y="25" style="animation-delay:0.67s">e</text><text class="cmd c3" x="109.2" y="25" style="animation-delay:0.75s">r</text><text class="cmd c3" x="117" y="25" style="animation-delay:0.82s">-</text><text class="cmd c3" x="124.8" y="25" style="animation-delay:0.9s">h</text><text class="cmd c3" x="132.6" y="25" style="animation-delay:0.97s">o</text><text class="cmd c3" x="140.4" y="25" style="animation-delay:1.05s">u</text><text class="cmd c3" x="148.2" y="25" style="animation-delay:1.13s">r</text><text class="cmd c3" x="156" y="25" style="animation-delay:1.2s">s</text><text class="cmd c3" x="163.8" y="25" style="animation-delay:1.27s">.</text><text class="cmd c3" x="171.6" y="25" style="animation-delay:1.35s">t</text><text class="cmd c3" x="179.4" y="25" style="animation-delay:1.43s">x</text><text class="cmd c3" x="187.2" y="25" style="animation-delay:1.5s">t</text>
+<text class="out o3" x="0" y="47.1" textLength="171.6" lengthAdjust="spacingAndGlyphs">Probably playing games</text>
+<g class="caret k3"><g class="m3"><rect class="cursor blink" x="31.2" y="14.34" width="7.02" height="13.65"/></g></g></g>
+</g>
+</svg>

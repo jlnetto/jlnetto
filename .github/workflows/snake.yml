@@ -1,0 +1,37 @@
+# Draws the snake that eats my contribution graph in README.md and publishes
+# it to the `output` branch, in GitHub's own light and dark graph colors.
+name: Snake
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # every day, 03:17 in Brazil
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#bf8700&color_dots=#eff2f5,#aceebb,#4ac26b,#2da44e,#116329
+            dist/snake-dark.svg?color_snake=#e3b341&color_dots=#151b23,#033a16,#196c2e,#2ea043,#56d364
+
+      - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

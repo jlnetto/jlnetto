@@ -1,27 +1,56 @@
-<h1 align="center">Hi 👋, I'm José Netto</h1>
-<h4><b>About me</b></h4>
-<p align="left">I love technology! Being able to help people with innovative solutions is priceless! I always seek to update myself together with the community and the market. I'm more used to working with new technologies! But I am ready to learn any tools and technologies. I am a communicative person, I like to discuss ideas and new solutions with my team, always open to changes. In my free time, I love to play games! Actually, I'm working with React, Typescript and NodeJs. See you soon!</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/hero-light.svg" width="100%" alt="José Netto, written on a GitHub contribution graph">
+</picture>
 
-- 🚀 Co-founder of <a href="https://www.anydocsai.com.br/" target="_blank" rel="noreferrer">**Anydocs**</a>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/terminal-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/terminal-dark.svg">
+  <img src="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/terminal-light.svg" width="100%" alt="A terminal typing: whoami, José Netto, software engineer in Uberlândia, Brazil">
+</picture>
 
-- 🔭 I’m currently working on **iGreen Energy**
+I'm a software engineer at [iGreen Energy](https://www.igreenenergy.com.br), a Brazilian solar energy company, and a co-founder of [Anydocs](https://www.anydocsai.com.br), an AI platform for document analysis. I work across the whole product: React front ends, the services behind them and the cloud they run on.
 
-- 🌱 I’m currently learning **Nest.js, Next.js, Node.js, Generative AI & Azure**
+### What I'm working on
 
-- 💬 Ask me about **Front End development**
+- **At iGreen**, web apps in React and Vite, mobile apps in React Native and Expo, and a NestJS backend shipped with Docker and GitHub Actions.
+- **At Anydocs**, .NET 8 services on Google Cloud and Azure that read and analyze documents.
+- **With AI**, pipelines that pair LLMs (Claude, GPT, Gemini) with OpenCV and YOLO to pull data out of documents and check it, plus MCP servers that let AI agents use our internal tools.
+- **For the team**, internal platforms for feature flags and deploys, and a lot of AI-assisted development with Claude Code.
 
-<hr/>
-<h4><b>Languages and Tools</b></h4>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Tech stack
 
-<hr/>
-<h4><b>Current stats</b></h4>
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jlnetto&show_icons=true&locale=en&layout=compact" alt="jlnetto" /></p>
-</div>
-<hr/>
-<h4><b> Connect with me</b></h4>
-<div style='text-align:center'>
-<a href="https://www.linkedin.com/in/jlnetto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt='LinkedIn'></a>
-<a href="mailto:joselemesnetto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-555?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt='Gmail'></a>
-</div>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/stack-now-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/stack-now-dark.svg">
+  <img src="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/stack-now-light.svg" width="100%" alt="Tech I use today. Languages: TypeScript, JavaScript, Python, C#, HTML, CSS, Sass. Front end: React, Vite, Tailwind CSS, React Hook Form, Zod, TanStack Query, styled-components, MUI, Framer Motion, shadcn/ui, Next.js. Mobile and desktop: React Native, Expo, Electron. Back end: Node.js, NestJS, Express, Swagger, .NET, FastAPI, Django, Flask, Celery, Koa. Data: PostgreSQL, Sequelize, Firebase, Prisma, Redis, SQL Server, Drizzle, MySQL. Cloud and DevOps: GitHub Actions, Docker, Nginx, Linux, AWS, Google Cloud, Azure, Terraform. AI: Claude, OpenAI, Gemini, MCP, OpenCV, YOLO. Testing and tools: Git, Jest, Vitest, Playwright">
+</picture>
+
+#### Also worked with
+
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/stack-before-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/stack-before-dark.svg">
+  <img src="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/stack-before-light.svg" width="100%" alt="Tech I have worked with before: Angular, AngularJS, Gatsby, Redux, Redux-Saga, GraphQL, MongoDB, Elasticsearch, Java, Bootstrap, Materialize, Webpack, Babel, Gulp, Storybook, Figma, Postman">
+</picture>
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlnetto/jlnetto/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/jlnetto/jlnetto/output/snake-light.svg" width="100%" alt="A snake eating my GitHub contribution graph">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jlnetto&locale=en&hide_border=true&card_width=720&background=0D111700&stroke=3D444D&ring=56D364&fire=E3B341&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=56D364&sideLabels=9198A1&dates=9198A1">
+  <img src="https://streak-stats.demolab.com?user=jlnetto&locale=en&hide_border=true&card_width=720&background=FFFFFF00&stroke=D1D9E0&ring=2DA44E&fire=BF8700&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=116329&sideLabels=59636E&dates=59636E" width="100%" alt="My GitHub contribution streak">
+</picture>
+
+### Get in touch
+
+I like trading ideas with my team and I'm always up for learning a new tool. Ask me about front-end architecture, TypeScript, or putting AI to work on real documents. Off the clock, I'm probably playing games. Find me on [LinkedIn](https://www.linkedin.com/in/jlnetto/) or [send me an email](mailto:joselemesnetto@gmail.com).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/footer-dark.svg">
+  <img src="https://raw.githubusercontent.com/jlnetto/jlnetto/main/assets/footer-light.svg" width="100%" alt="">
+</picture>
