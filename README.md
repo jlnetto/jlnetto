@@ -13,6 +13,8 @@ I'm a software engineer at [iGreen Energy](https://www.igreenenergy.com.br), a B
 
 ### What I'm working on
 
+At iGreen I lead **iGreen OS**, a desktop app where selected colleagues build internal apps by talking to an AI agent that already knows how the company works, then publish them for other people at iGreen to use. It runs on Electron and React, with a NestJS control plane for the catalog, reviews and audit, and Claude behind the agent. Published apps never touch company data directly: they ask the control plane for curated capabilities, so no secret ever needs to live inside an app.
+
 - **At iGreen**, web apps in React and Vite, mobile apps in React Native and Expo, and a NestJS backend shipped with Docker and GitHub Actions.
 - **At Anydocs**, .NET 8 services on Google Cloud and Azure that read and analyze documents.
 - **With AI**, pipelines that pair LLMs (Claude, GPT, Gemini) with OpenCV and YOLO to pull data out of documents and check it, plus MCP servers that let AI agents use our internal tools.

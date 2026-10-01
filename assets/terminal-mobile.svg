@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="84.6" viewBox="0 0 360 84.6" role="img" aria-labelledby="title">
-<title id="title">$ whoami: José Netto, software engineer in Uberlândia, Brazil. $ stack --today: TypeScript, React, NestJS, .NET, Python, GCP and Azure. $ ai --status: Building LLM and computer vision pipelines. $ cat ~/after-hours.txt: Probably playing games</title>
+<title id="title">$ whoami: José Netto, software engineer in Uberlândia, Brazil. $ cat now.md: Leading iGreen OS, where colleagues build apps with an AI agent. $ stack --today: TypeScript, React, NestJS, .NET, Python, GCP and Azure. $ ai --status: Building LLM and computer vision pipelines. $ cat ~/after-hours.txt: Probably playing games</title>
 <style>
 text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 11.5px; white-space: pre; }
 .prompt, .cursor { fill: #56d364; }
@@ -7,57 +7,70 @@ text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'L
 .hidden, .caret { opacity: 0; }
 .blink { animation: blink 1s step-end infinite; }
 @keyframes blink { 50% { opacity: 0; } }
-.e0 { animation: e0 24s step-end infinite; }
-@keyframes e0 { 0% { opacity: 0; } 0% { opacity: 1; } 23.96% { opacity: 0; } }
-.c0 { animation: c0 24s step-end infinite both; }
-@keyframes c0 { 0% { opacity: 0; } 2.5% { opacity: 1; } 23.96% { opacity: 0; } }
-.o0 { animation: o0 24s step-end infinite; }
-@keyframes o0 { 0% { opacity: 0; } 6.25% { opacity: 1; } 23.96% { opacity: 0; } }
-.k0 { animation: k0 24s step-end infinite; }
-@keyframes k0 { 0% { opacity: 0; } 0% { opacity: 1; } 6.25% { opacity: 0; } }
-.m0 { animation: m0 24s infinite; }
+.e0 { animation: e0 30s step-end infinite; }
+@keyframes e0 { 0% { opacity: 0; } 0% { opacity: 1; } 19.17% { opacity: 0; } }
+.c0 { animation: c0 30s step-end infinite both; }
+@keyframes c0 { 0% { opacity: 0; } 2% { opacity: 1; } 19.17% { opacity: 0; } }
+.o0 { animation: o0 30s step-end infinite; }
+@keyframes o0 { 0% { opacity: 0; } 5% { opacity: 1; } 19.17% { opacity: 0; } }
+.k0 { animation: k0 30s step-end infinite; }
+@keyframes k0 { 0% { opacity: 0; } 0% { opacity: 1; } 5% { opacity: 0; } }
+.m0 { animation: m0 30s infinite; }
 @keyframes m0 {
-  0%, 2.5% { transform: translateX(0); animation-timing-function: steps(6, jump-start); }
-  4.37%, 100% { transform: translateX(41.4px); }
+  0%, 2% { transform: translateX(0); animation-timing-function: steps(6, jump-start); }
+  3.5%, 100% { transform: translateX(41.4px); }
 }
-.e1 { animation: e1 24s step-end infinite; }
-@keyframes e1 { 0% { opacity: 0; } 25% { opacity: 1; } 48.96% { opacity: 0; } }
-.c1 { animation: c1 24s step-end infinite both; }
-@keyframes c1 { 0% { opacity: 0; } 27.5% { opacity: 1; } 48.96% { opacity: 0; } }
-.o1 { animation: o1 24s step-end infinite; }
-@keyframes o1 { 0% { opacity: 0; } 33.44% { opacity: 1; } 48.96% { opacity: 0; } }
-.k1 { animation: k1 24s step-end infinite; }
-@keyframes k1 { 0% { opacity: 0; } 25% { opacity: 1; } 33.44% { opacity: 0; } }
-.m1 { animation: m1 24s infinite; }
+.e1 { animation: e1 30s step-end infinite; }
+@keyframes e1 { 0% { opacity: 0; } 20% { opacity: 1; } 39.17% { opacity: 0; } }
+.c1 { animation: c1 30s step-end infinite both; }
+@keyframes c1 { 0% { opacity: 0; } 22% { opacity: 1; } 39.17% { opacity: 0; } }
+.o1 { animation: o1 30s step-end infinite; }
+@keyframes o1 { 0% { opacity: 0; } 26% { opacity: 1; } 39.17% { opacity: 0; } }
+.k1 { animation: k1 30s step-end infinite; }
+@keyframes k1 { 0% { opacity: 0; } 20% { opacity: 1; } 26% { opacity: 0; } }
+.m1 { animation: m1 30s infinite; }
 @keyframes m1 {
-  0%, 27.5% { transform: translateX(0); animation-timing-function: steps(13, jump-start); }
-  31.56%, 100% { transform: translateX(89.7px); }
+  0%, 22% { transform: translateX(0); animation-timing-function: steps(10, jump-start); }
+  24.5%, 100% { transform: translateX(69px); }
 }
-.e2 { animation: e2 24s step-end infinite; }
-@keyframes e2 { 0% { opacity: 0; } 50% { opacity: 1; } 73.96% { opacity: 0; } }
-.c2 { animation: c2 24s step-end infinite both; }
-@keyframes c2 { 0% { opacity: 0; } 52.5% { opacity: 1; } 73.96% { opacity: 0; } }
-.o2 { animation: o2 24s step-end infinite; }
-@keyframes o2 { 0% { opacity: 0; } 57.81% { opacity: 1; } 73.96% { opacity: 0; } }
-.k2 { animation: k2 24s step-end infinite; }
-@keyframes k2 { 0% { opacity: 0; } 50% { opacity: 1; } 57.81% { opacity: 0; } }
-.m2 { animation: m2 24s infinite; }
+.e2 { animation: e2 30s step-end infinite; }
+@keyframes e2 { 0% { opacity: 0; } 40% { opacity: 1; } 59.17% { opacity: 0; } }
+.c2 { animation: c2 30s step-end infinite both; }
+@keyframes c2 { 0% { opacity: 0; } 42% { opacity: 1; } 59.17% { opacity: 0; } }
+.o2 { animation: o2 30s step-end infinite; }
+@keyframes o2 { 0% { opacity: 0; } 46.75% { opacity: 1; } 59.17% { opacity: 0; } }
+.k2 { animation: k2 30s step-end infinite; }
+@keyframes k2 { 0% { opacity: 0; } 40% { opacity: 1; } 46.75% { opacity: 0; } }
+.m2 { animation: m2 30s infinite; }
 @keyframes m2 {
-  0%, 52.5% { transform: translateX(0); animation-timing-function: steps(11, jump-start); }
-  55.94%, 100% { transform: translateX(75.9px); }
+  0%, 42% { transform: translateX(0); animation-timing-function: steps(13, jump-start); }
+  45.25%, 100% { transform: translateX(89.7px); }
 }
-.e3 { animation: e3 24s step-end infinite; }
-@keyframes e3 { 0% { opacity: 0; } 75% { opacity: 1; } 98.96% { opacity: 0; } }
-.c3 { animation: c3 24s step-end infinite both; }
-@keyframes c3 { 0% { opacity: 0; } 77.5% { opacity: 1; } 98.96% { opacity: 0; } }
-.o3 { animation: o3 24s step-end infinite; }
-@keyframes o3 { 0% { opacity: 0; } 85.94% { opacity: 1; } 98.96% { opacity: 0; } }
-.k3 { animation: k3 24s step-end infinite; }
-@keyframes k3 { 0% { opacity: 0; } 75% { opacity: 1; } 85.94% { opacity: 0; } }
-.m3 { animation: m3 24s infinite; }
+.e3 { animation: e3 30s step-end infinite; }
+@keyframes e3 { 0% { opacity: 0; } 60% { opacity: 1; } 79.17% { opacity: 0; } }
+.c3 { animation: c3 30s step-end infinite both; }
+@keyframes c3 { 0% { opacity: 0; } 62% { opacity: 1; } 79.17% { opacity: 0; } }
+.o3 { animation: o3 30s step-end infinite; }
+@keyframes o3 { 0% { opacity: 0; } 66.25% { opacity: 1; } 79.17% { opacity: 0; } }
+.k3 { animation: k3 30s step-end infinite; }
+@keyframes k3 { 0% { opacity: 0; } 60% { opacity: 1; } 66.25% { opacity: 0; } }
+.m3 { animation: m3 30s infinite; }
 @keyframes m3 {
-  0%, 77.5% { transform: translateX(0); animation-timing-function: steps(21, jump-start); }
-  84.06%, 100% { transform: translateX(144.9px); }
+  0%, 62% { transform: translateX(0); animation-timing-function: steps(11, jump-start); }
+  64.75%, 100% { transform: translateX(75.9px); }
+}
+.e4 { animation: e4 30s step-end infinite; }
+@keyframes e4 { 0% { opacity: 0; } 80% { opacity: 1; } 99.17% { opacity: 0; } }
+.c4 { animation: c4 30s step-end infinite both; }
+@keyframes c4 { 0% { opacity: 0; } 82% { opacity: 1; } 99.17% { opacity: 0; } }
+.o4 { animation: o4 30s step-end infinite; }
+@keyframes o4 { 0% { opacity: 0; } 88.75% { opacity: 1; } 99.17% { opacity: 0; } }
+.k4 { animation: k4 30s step-end infinite; }
+@keyframes k4 { 0% { opacity: 0; } 80% { opacity: 1; } 88.75% { opacity: 0; } }
+.m4 { animation: m4 30s infinite; }
+@keyframes m4 {
+  0%, 82% { transform: translateX(0); animation-timing-function: steps(21, jump-start); }
+  87.25%, 100% { transform: translateX(144.9px); }
 }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
@@ -67,14 +80,17 @@ text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'L
 <g class="e0"><text class="cmd c0" x="27.6" y="11.5" style="animation-delay:0s">w</text><text class="cmd c0" x="34.5" y="11.5" style="animation-delay:0.07s">h</text><text class="cmd c0" x="41.4" y="11.5" style="animation-delay:0.15s">o</text><text class="cmd c0" x="48.3" y="11.5" style="animation-delay:0.22s">a</text><text class="cmd c0" x="55.2" y="11.5" style="animation-delay:0.3s">m</text><text class="cmd c0" x="62.1" y="11.5" style="animation-delay:0.38s">i</text>
 <text class="out o0" x="0" y="31.05" textLength="303.6" lengthAdjust="spacingAndGlyphs">José Netto, software engineer in Uberlândia,</text><text class="out o0" x="0" y="50.6" textLength="41.4" lengthAdjust="spacingAndGlyphs">Brazil</text>
 <g class="caret k0"><g class="m0"><rect class="cursor blink" x="27.6" y="2.0700000000000003" width="6.21" height="12.08"/></g></g></g>
-<g class="e1 hidden"><text class="cmd c1" x="27.6" y="11.5" style="animation-delay:0s">s</text><text class="cmd c1" x="34.5" y="11.5" style="animation-delay:0.07s">t</text><text class="cmd c1" x="41.4" y="11.5" style="animation-delay:0.15s">a</text><text class="cmd c1" x="48.3" y="11.5" style="animation-delay:0.22s">c</text><text class="cmd c1" x="55.2" y="11.5" style="animation-delay:0.3s">k</text><text class="cmd c1" x="62.1" y="11.5" style="animation-delay:0.38s"> </text><text class="cmd c1" x="69" y="11.5" style="animation-delay:0.45s">-</text><text class="cmd c1" x="75.9" y="11.5" style="animation-delay:0.53s">-</text><text class="cmd c1" x="82.8" y="11.5" style="animation-delay:0.6s">t</text><text class="cmd c1" x="89.7" y="11.5" style="animation-delay:0.67s">o</text><text class="cmd c1" x="96.6" y="11.5" style="animation-delay:0.75s">d</text><text class="cmd c1" x="103.5" y="11.5" style="animation-delay:0.82s">a</text><text class="cmd c1" x="110.4" y="11.5" style="animation-delay:0.9s">y</text>
-<text class="out o1" x="0" y="31.05" textLength="303.6" lengthAdjust="spacingAndGlyphs">TypeScript, React, NestJS, .NET, Python, GCP</text><text class="out o1" x="0" y="50.6" textLength="62.1" lengthAdjust="spacingAndGlyphs">and Azure</text>
+<g class="e1 hidden"><text class="cmd c1" x="27.6" y="11.5" style="animation-delay:0s">c</text><text class="cmd c1" x="34.5" y="11.5" style="animation-delay:0.07s">a</text><text class="cmd c1" x="41.4" y="11.5" style="animation-delay:0.15s">t</text><text class="cmd c1" x="48.3" y="11.5" style="animation-delay:0.22s"> </text><text class="cmd c1" x="55.2" y="11.5" style="animation-delay:0.3s">n</text><text class="cmd c1" x="62.1" y="11.5" style="animation-delay:0.38s">o</text><text class="cmd c1" x="69" y="11.5" style="animation-delay:0.45s">w</text><text class="cmd c1" x="75.9" y="11.5" style="animation-delay:0.53s">.</text><text class="cmd c1" x="82.8" y="11.5" style="animation-delay:0.6s">m</text><text class="cmd c1" x="89.7" y="11.5" style="animation-delay:0.67s">d</text>
+<text class="out o1" x="0" y="31.05" textLength="317.4" lengthAdjust="spacingAndGlyphs">Leading iGreen OS, where colleagues build apps</text><text class="out o1" x="0" y="50.6" textLength="110.4" lengthAdjust="spacingAndGlyphs">with an AI agent</text>
 <g class="caret k1"><g class="m1"><rect class="cursor blink" x="27.6" y="2.0700000000000003" width="6.21" height="12.08"/></g></g></g>
-<g class="e2 hidden"><text class="cmd c2" x="27.6" y="11.5" style="animation-delay:0s">a</text><text class="cmd c2" x="34.5" y="11.5" style="animation-delay:0.07s">i</text><text class="cmd c2" x="41.4" y="11.5" style="animation-delay:0.15s"> </text><text class="cmd c2" x="48.3" y="11.5" style="animation-delay:0.22s">-</text><text class="cmd c2" x="55.2" y="11.5" style="animation-delay:0.3s">-</text><text class="cmd c2" x="62.1" y="11.5" style="animation-delay:0.38s">s</text><text class="cmd c2" x="69" y="11.5" style="animation-delay:0.45s">t</text><text class="cmd c2" x="75.9" y="11.5" style="animation-delay:0.53s">a</text><text class="cmd c2" x="82.8" y="11.5" style="animation-delay:0.6s">t</text><text class="cmd c2" x="89.7" y="11.5" style="animation-delay:0.67s">u</text><text class="cmd c2" x="96.6" y="11.5" style="animation-delay:0.75s">s</text>
-<text class="out o2" x="0" y="31.05" textLength="289.8" lengthAdjust="spacingAndGlyphs">Building LLM and computer vision pipelines</text>
+<g class="e2 hidden"><text class="cmd c2" x="27.6" y="11.5" style="animation-delay:0s">s</text><text class="cmd c2" x="34.5" y="11.5" style="animation-delay:0.07s">t</text><text class="cmd c2" x="41.4" y="11.5" style="animation-delay:0.15s">a</text><text class="cmd c2" x="48.3" y="11.5" style="animation-delay:0.22s">c</text><text class="cmd c2" x="55.2" y="11.5" style="animation-delay:0.3s">k</text><text class="cmd c2" x="62.1" y="11.5" style="animation-delay:0.38s"> </text><text class="cmd c2" x="69" y="11.5" style="animation-delay:0.45s">-</text><text class="cmd c2" x="75.9" y="11.5" style="animation-delay:0.53s">-</text><text class="cmd c2" x="82.8" y="11.5" style="animation-delay:0.6s">t</text><text class="cmd c2" x="89.7" y="11.5" style="animation-delay:0.67s">o</text><text class="cmd c2" x="96.6" y="11.5" style="animation-delay:0.75s">d</text><text class="cmd c2" x="103.5" y="11.5" style="animation-delay:0.82s">a</text><text class="cmd c2" x="110.4" y="11.5" style="animation-delay:0.9s">y</text>
+<text class="out o2" x="0" y="31.05" textLength="303.6" lengthAdjust="spacingAndGlyphs">TypeScript, React, NestJS, .NET, Python, GCP</text><text class="out o2" x="0" y="50.6" textLength="62.1" lengthAdjust="spacingAndGlyphs">and Azure</text>
 <g class="caret k2"><g class="m2"><rect class="cursor blink" x="27.6" y="2.0700000000000003" width="6.21" height="12.08"/></g></g></g>
-<g class="e3 hidden"><text class="cmd c3" x="27.6" y="11.5" style="animation-delay:0s">c</text><text class="cmd c3" x="34.5" y="11.5" style="animation-delay:0.07s">a</text><text class="cmd c3" x="41.4" y="11.5" style="animation-delay:0.15s">t</text><text class="cmd c3" x="48.3" y="11.5" style="animation-delay:0.22s"> </text><text class="cmd c3" x="55.2" y="11.5" style="animation-delay:0.3s">~</text><text class="cmd c3" x="62.1" y="11.5" style="animation-delay:0.38s">/</text><text class="cmd c3" x="69" y="11.5" style="animation-delay:0.45s">a</text><text class="cmd c3" x="75.9" y="11.5" style="animation-delay:0.53s">f</text><text class="cmd c3" x="82.8" y="11.5" style="animation-delay:0.6s">t</text><text class="cmd c3" x="89.7" y="11.5" style="animation-delay:0.67s">e</text><text class="cmd c3" x="96.6" y="11.5" style="animation-delay:0.75s">r</text><text class="cmd c3" x="103.5" y="11.5" style="animation-delay:0.82s">-</text><text class="cmd c3" x="110.4" y="11.5" style="animation-delay:0.9s">h</text><text class="cmd c3" x="117.3" y="11.5" style="animation-delay:0.97s">o</text><text class="cmd c3" x="124.2" y="11.5" style="animation-delay:1.05s">u</text><text class="cmd c3" x="131.1" y="11.5" style="animation-delay:1.13s">r</text><text class="cmd c3" x="138" y="11.5" style="animation-delay:1.2s">s</text><text class="cmd c3" x="144.9" y="11.5" style="animation-delay:1.27s">.</text><text class="cmd c3" x="151.8" y="11.5" style="animation-delay:1.35s">t</text><text class="cmd c3" x="158.7" y="11.5" style="animation-delay:1.43s">x</text><text class="cmd c3" x="165.6" y="11.5" style="animation-delay:1.5s">t</text>
-<text class="out o3" x="0" y="31.05" textLength="151.8" lengthAdjust="spacingAndGlyphs">Probably playing games</text>
+<g class="e3 hidden"><text class="cmd c3" x="27.6" y="11.5" style="animation-delay:0s">a</text><text class="cmd c3" x="34.5" y="11.5" style="animation-delay:0.07s">i</text><text class="cmd c3" x="41.4" y="11.5" style="animation-delay:0.15s"> </text><text class="cmd c3" x="48.3" y="11.5" style="animation-delay:0.22s">-</text><text class="cmd c3" x="55.2" y="11.5" style="animation-delay:0.3s">-</text><text class="cmd c3" x="62.1" y="11.5" style="animation-delay:0.38s">s</text><text class="cmd c3" x="69" y="11.5" style="animation-delay:0.45s">t</text><text class="cmd c3" x="75.9" y="11.5" style="animation-delay:0.53s">a</text><text class="cmd c3" x="82.8" y="11.5" style="animation-delay:0.6s">t</text><text class="cmd c3" x="89.7" y="11.5" style="animation-delay:0.67s">u</text><text class="cmd c3" x="96.6" y="11.5" style="animation-delay:0.75s">s</text>
+<text class="out o3" x="0" y="31.05" textLength="289.8" lengthAdjust="spacingAndGlyphs">Building LLM and computer vision pipelines</text>
 <g class="caret k3"><g class="m3"><rect class="cursor blink" x="27.6" y="2.0700000000000003" width="6.21" height="12.08"/></g></g></g>
+<g class="e4 hidden"><text class="cmd c4" x="27.6" y="11.5" style="animation-delay:0s">c</text><text class="cmd c4" x="34.5" y="11.5" style="animation-delay:0.07s">a</text><text class="cmd c4" x="41.4" y="11.5" style="animation-delay:0.15s">t</text><text class="cmd c4" x="48.3" y="11.5" style="animation-delay:0.22s"> </text><text class="cmd c4" x="55.2" y="11.5" style="animation-delay:0.3s">~</text><text class="cmd c4" x="62.1" y="11.5" style="animation-delay:0.38s">/</text><text class="cmd c4" x="69" y="11.5" style="animation-delay:0.45s">a</text><text class="cmd c4" x="75.9" y="11.5" style="animation-delay:0.53s">f</text><text class="cmd c4" x="82.8" y="11.5" style="animation-delay:0.6s">t</text><text class="cmd c4" x="89.7" y="11.5" style="animation-delay:0.67s">e</text><text class="cmd c4" x="96.6" y="11.5" style="animation-delay:0.75s">r</text><text class="cmd c4" x="103.5" y="11.5" style="animation-delay:0.82s">-</text><text class="cmd c4" x="110.4" y="11.5" style="animation-delay:0.9s">h</text><text class="cmd c4" x="117.3" y="11.5" style="animation-delay:0.97s">o</text><text class="cmd c4" x="124.2" y="11.5" style="animation-delay:1.05s">u</text><text class="cmd c4" x="131.1" y="11.5" style="animation-delay:1.13s">r</text><text class="cmd c4" x="138" y="11.5" style="animation-delay:1.2s">s</text><text class="cmd c4" x="144.9" y="11.5" style="animation-delay:1.27s">.</text><text class="cmd c4" x="151.8" y="11.5" style="animation-delay:1.35s">t</text><text class="cmd c4" x="158.7" y="11.5" style="animation-delay:1.43s">x</text><text class="cmd c4" x="165.6" y="11.5" style="animation-delay:1.5s">t</text>
+<text class="out o4" x="0" y="31.05" textLength="151.8" lengthAdjust="spacingAndGlyphs">Probably playing games</text>
+<g class="caret k4"><g class="m4"><rect class="cursor blink" x="27.6" y="2.0700000000000003" width="6.21" height="12.08"/></g></g></g>
 </g>
 </svg>

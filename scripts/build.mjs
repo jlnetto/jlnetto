@@ -19,6 +19,7 @@ const OUT_DIR = join(ROOT, 'assets');
 const NAME = 'José Netto';
 const TERMINAL = [
   ['whoami', 'José Netto, software engineer in Uberlândia, Brazil'],
+  ['cat now.md', 'Leading iGreen OS, where colleagues build apps with an AI agent'],
   ['stack --today', 'TypeScript, React, NestJS, .NET, Python, GCP and Azure'],
   ['ai --status', 'Building LLM and computer vision pipelines'],
   ['cat ~/after-hours.txt', 'Probably playing games'],
